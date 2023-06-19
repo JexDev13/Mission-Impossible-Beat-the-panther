@@ -8,6 +8,6 @@ Escribe un programa que te permita validar números de tarjeta de crédito utili
 2. No olvides subir una historia con la solución a Instagram y etiquetar al club de programación 
 para hacer valida tu participación
 3. Si subes tu solución a un reel ganas puntos extras.
-
+4. Recuerda registrarte a ti o a tu equipo para participar.
 
 SUERTE :3
