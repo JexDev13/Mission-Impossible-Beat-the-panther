@@ -1,0 +1,19 @@
+Descripción del desafío:
+
+El programador debe ingeniar una manera de ingresar una pareja de límites (inferior y superior). 
+Debe ser capaz de manejar varios casos que consisten en parejas de límites. (ejemplo 1-10,20-30,...)
+Para cada caso, el programa debe encontrar y sumar todos los números pares dentro del rango especificado.
+El programa debe mostrar en pantalla la suma de los números pares obtenida para cada caso.
+
+Mission Impossible: Beat the panther_Reto 4
+
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia con la solución a Instagram y etiquetar al club de programación 
+para hacer valida tu participación
+3. Si subes tu solución a un reel ganas puntos extras.
+
+
+SUERTE :3
+

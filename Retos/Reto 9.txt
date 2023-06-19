@@ -1,0 +1,20 @@
+Complejo: Encontrar la ruta más corta en un laberinto
+Desafío: Dado un laberinto representado por una matriz, 
+donde 0 representa un camino libre y 1 representa una pared,
+ encuentra la ruta más corta desde una posición inicial hasta
+ una posición objetivo. Puedes moverte en las direcciones arriba,
+ abajo, izquierda y derecha. Puedes asumir que siempre hay una ruta
+ válida desde la posición inicial hasta la posición 
+
+Mission Impossible: Beat the panther_Reto 9
+
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia con la solución a Instagram y etiquetar al club de programación 
+para hacer valida tu participación
+3. Si subes tu solución a un reel ganas puntos extras.
+
+
+SUERTE :3
+
