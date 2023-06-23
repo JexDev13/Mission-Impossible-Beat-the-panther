@@ -1,0 +1,15 @@
+Mission Impossible: Beat the panther_Reto 16
+
+Manejas un negocio de peluches con mensajes. Un dia, te han pedido fabricar un peluche con las siguientes especificaciones:
+
+- El tamaño del peluche debe ser N X M. (N es un número natural impar y M es 3 veces N).
+- El diseño debe tener escrito 'BIENVENIDO' en el centro.
+- El patrón de diseño solo debe usar los siguientes caracteres(|, ., -)
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

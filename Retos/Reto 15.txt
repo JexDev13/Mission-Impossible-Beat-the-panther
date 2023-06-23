@@ -1,0 +1,21 @@
+Mission Impossible: Beat the panther_Reto 15
+
+Dificultad difícil
+El adivinador de números
+
+Historia: Eres un adivinador profesional que ha sido desafiado a adivinar un número secreto. Tienes un máximo de 5 intentos para adivinar el número correcto. Después de cada intento, recibirás una pista para ayudarte a acercarte al número secreto.
+
+Instrucciones:
+
+1. Escribe un programa en Java que genere un número aleatorio entre 1 y 100 como el número secreto.
+2. Pídele al usuario que ingrese un número como su intento.
+3. Compara el número ingresado con el número secreto y muestra un mensaje indicando si el número ingresado es mayor, menor o igual al número secreto.
+4. Repite los pasos 2 y 3 hasta que el usuario adivine el número secreto o se queden sin intentos.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

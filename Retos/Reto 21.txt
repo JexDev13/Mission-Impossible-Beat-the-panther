@@ -1,0 +1,20 @@
+Mission Impossible: Beat the panther_Reto 21
+
+Matriz transpuesta
+
+Descripción del reto: Escribe un programa que calcule la matriz transpuesta de una matriz dada.
+
+Indicaciones para la resolución:
+
+Declara una matriz de números enteros con algunos valores de ejemplo.
+Crea una nueva matriz con las dimensiones invertidas de la matriz original para almacenar la matriz transpuesta.
+Recorre la matriz original y, por cada elemento, colócalo en la posición correspondiente en la matriz transpuesta.
+Al finalizar, muestra la matriz transpuesta.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

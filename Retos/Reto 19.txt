@@ -1,0 +1,21 @@
+Mission Impossible: Beat the panther_Reto 19
+
+Título del reto: Buscar elementos duplicados en un arreglo
+
+Descripción del reto: Escribe un programa que encuentre y muestre los elementos duplicados en un arreglo de enteros.
+
+Indicaciones para la resolución:
+
+Declara un arreglo de números enteros con algunos valores de ejemplo.
+Crea un conjunto (Set) para almacenar los elementos duplicados encontrados.
+Recorre cada elemento del arreglo y verifica si ya existe en el conjunto.
+Si el elemento ya existe en el conjunto, significa que es duplicado y se debe mostrar.
+Al finalizar, muestra los elementos duplicados encontrados.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

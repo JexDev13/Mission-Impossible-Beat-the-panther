@@ -1,0 +1,23 @@
+Mission Impossible: Beat the panther_Reto 10
+
+FACIL:
+Hemos podido interceptar varios textos,entre ellos una localización, 
+pero las letras de algunas palabras están mezcladas. 
+Deberás generar un código que genere todas las posibles palabras de 
+las letras dadas: 
+AITLAI 
+AMOR 
+NOITCAAV
+- usar todas las letras en cada combinación
+- generar todas las posibles palabras aunque estas 
+no siguan las reglas de la gramática
+- el ingreso puede ser por consola o con los datos 
+quemados en el código
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

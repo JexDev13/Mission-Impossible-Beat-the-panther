@@ -1,0 +1,18 @@
+Mission Impossible: Beat the panther_Reto 17
+
+Se le da una cadena y debe validar si es un número romano válido. Si es válido, imprima True. De lo contrario, escriba Falso. 
+Intente crear una expresión regular para un número romano válido.
+
+Reglas:
+- EL numero debe estar entre 1 y 3999 (ambos inclsuidos)
+
+Input: CDXXI
+Output: True
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

@@ -1,0 +1,21 @@
+Mission Impossible: Beat the panther_Reto 20
+
+Encontrar el número faltante en una secuencia
+
+Descripción del reto: Escribe un programa que encuentre el número faltante en una secuencia de números enteros consecutivos.
+
+Indicaciones para la resolución:
+
+Declara un arreglo de números enteros con una secuencia de números consecutivos, donde un número falta.
+Calcula la suma total esperada de la secuencia utilizando la fórmula de la suma de una secuencia aritmética.
+Recorre cada número en el arreglo y calcula la suma actual.
+Resta la suma actual de la suma total esperada para obtener el número faltante.
+Al finalizar, muestra el número faltante.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3
