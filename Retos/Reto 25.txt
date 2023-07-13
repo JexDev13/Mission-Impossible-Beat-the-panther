@@ -1,0 +1,12 @@
+Mission Impossible: Beat the panther_Reto 25
+
+Fácil: Suma binaria
+María tiene un número binario de 1 byte y quiere saber la suma de sus dígitos en decimal. Escribe un programa que tome un número binario, lo transforme y devuelva la suma de todos sus dígitos.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

@@ -1,0 +1,15 @@
+Mission Impossible: Beat the panther_Reto 27
+
+Fácil:Calculadora de propinas
+Marcos es un camarero en un restaurante y quiere facilitar el cálculo de las propinas para sus clientes. 
+Él desea que le ayudes a crear una calculadora de propinas en la cual los clientes puedan ingresar el monto total de su cuenta y 
+seleccionar el porcentaje de propina que desean dejar. Tu tarea es escribir un programa que tome como entrada el monto total de la cuenta y 
+el porcentaje de propina, y calcule el monto total a pagar, incluyendo la propina. 
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

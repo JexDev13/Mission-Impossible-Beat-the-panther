@@ -1,0 +1,12 @@
+Mission Impossible: Beat the panther_Reto 26
+
+Intermedio: Sudoku Solver
+Pedro es un fanático del Sudoku y quiere un programa que pueda resolver tableros de Sudoku automáticamente. Escribe un programa que tome un tablero de Sudoku incompleto y lo resuelva.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

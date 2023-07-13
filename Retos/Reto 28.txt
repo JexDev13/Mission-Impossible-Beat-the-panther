@@ -1,0 +1,13 @@
+Mission Impossible: Beat the panther_Reto 28
+
+Intermedio: Cifrado César
+Juan es un aficionado a la criptografía y quiere implementar el cifrado César en su programa. Escribe un programa que reciba un texto y un desplazamiento como entrada,
+y cifre el texto desplazando cada letra del alfabeto un número determinado de posiciones hacia la derecha. Ayuda a Juan a proteger sus mensajes utilizando este antiguo método de cifrado.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

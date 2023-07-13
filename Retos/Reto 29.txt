@@ -1,0 +1,17 @@
+Mission Impossible: Beat the panther_Reto 29
+
+Difícil: Células
+Ana está interesada en la teoría de la vida celular y quiere simular cómo se desarrollan las células en un entorno dado. Ayúdala a crear un programa que simule la evolución de las células según reglas predefinidas.
+Contexto: Este programa simula el juego de la vida de John Conway, donde las células evolucionan según reglas predefinidas. 
+Reglas: En cada iteración, se muestra el estado actual del entorno y se calcula el siguiente estado basado en el número de células vecinas vivas. 
+Las células vivas pueden morir debido a baja población o sobrepoblación, y las células muertas pueden aparecer si tienen exactamente tres vecinos vivos. 
+La simulación se ejecuta indefinidamente, mostrando cada generación con un retraso de un segundo entre ellas.
+Las células vivas se generan aleatoriamente en un entorno(nxm) definido por el usuario.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3

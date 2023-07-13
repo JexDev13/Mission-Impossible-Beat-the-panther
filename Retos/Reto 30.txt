@@ -1,0 +1,15 @@
+Mission Impossible: Beat the panther_Reto 30
+
+Difícil: Verificación de árbol
+Marta está estudiando estructuras de datos y quiere comprobar si un árbol binario dado es un árbol de búsqueda válido.
+ Escribe un programa que tome un árbol binario como entrada y determine si cumple con la propiedad de búsqueda, es decir, 
+si el valor de cada nodo es mayor que todos los valores en su subárbol izquierdo y menor que todos los valores en su subárbol derecho. 
+Ayuda a Marta a verificar la validez de los árboles binarios.
+
+---NOTAS----
+1. Puedes usar el lenguaje de tu preferencia
+2. No olvides subir una historia o un reel con la solución a Instagram y etiquetar al club de programación 
+para ganar puntos extras.
+3. Si no entregaste una solución dentro del plazo de 24 horas, no te preocupes, aún puedes enviarlos, pero habrá penalización.
+
+SUERTE :3
